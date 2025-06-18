@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "576148249032",
+    "firebase_url": "https://kshema-29999-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kshema-29999",
+    "storage_bucket": "kshema-29999.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576148249032:android:ca44506a4670e238d908fd",
+        "android_client_info": {
+          "package_name": "app.iagri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkx5YMhx_OeobiAgzVeg9YSorUuBg0Y7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576148249032:android:389daacaade04e19d908fd",
+        "android_client_info": {
+          "package_name": "com.remotethemes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkx5YMhx_OeobiAgzVeg9YSorUuBg0Y7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "buildFiles": [
+    "/Users/racit/dev/react-native/RemoteThemes/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/racit/dev/react-native/RemoteThemes/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/racit/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/racit/dev/react-native/RemoteThemes/android/app/.cxx/Debug/6f3f2b4w/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/racit/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/racit/dev/react-native/RemoteThemes/android/app/.cxx/Debug/6f3f2b4w/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "appmodules",
+      "output": "/Users/racit/dev/react-native/RemoteThemes/android/app/build/intermediates/cxx/Debug/6f3f2b4w/obj/x86_64/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/racit/.gradle/caches/8.14.1/transforms/03b490ef839d0af7b365b1b3a0df4a48/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so",
+        "/Users/racit/.gradle/caches/8.14.1/transforms/647b565ba4aaebd5b0fc4a18bff893aa/transformed/react-android-0.80.0-debug/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
+        "/Users/racit/.gradle/caches/8.14.1/transforms/647b565ba4aaebd5b0fc4a18bff893aa/transformed/react-android-0.80.0-debug/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so"
+      ]
+    },
+    "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_rnasyncstorage"
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/racit/Library/Android/sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/racit/Library/Android/sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

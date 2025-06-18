@@ -1,0 +1,17 @@
+# ninja log v5
+1	39	0	/Users/racit/dev/react-native/RemoteThemes/android/app/.cxx/Debug/6f3f2b4w/arm64-v8a/CMakeFiles/cmake.verify_globs	5f42a2fe5b66a0f6
+5	1743	1750064615336410782	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o	c3ba7953504ec310
+2	1958	1750064615545805350	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o	cc3aa57f125beed8
+3	2261	1750064615856335057	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o	b526d3b7621a8329
+5	2428	1750064616019315167	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o	e58166101d4d5dcb
+0	2462	1750064616054614121	CMakeFiles/appmodules.dir/Users/racit/dev/react-native/RemoteThemes/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	7d82847882caec9b
+5	2539	1750064616131300013	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o	6e73b81b1e6f6eda
+5	2636	1750064616228433351	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o	fa982506afc202fd
+1	2673	1750064616259516920	CMakeFiles/appmodules.dir/OnLoad.cpp.o	cc8dfff8c860392e
+1	2740	1750064616334129079	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o	ef0236e5e17830f3
+2741	2863	1750064616454232267	/Users/racit/dev/react-native/RemoteThemes/android/app/build/intermediates/cxx/Debug/6f3f2b4w/obj/arm64-v8a/libappmodules.so	b50a7eb1d4682f67
+0	23	0	/Users/racit/dev/react-native/RemoteThemes/android/app/.cxx/Debug/6f3f2b4w/arm64-v8a/CMakeFiles/cmake.verify_globs	5f42a2fe5b66a0f6
+0	22	0	/Users/racit/dev/react-native/RemoteThemes/android/app/.cxx/Debug/6f3f2b4w/arm64-v8a/CMakeFiles/cmake.verify_globs	5f42a2fe5b66a0f6
+1	27	0	/Users/racit/dev/react-native/RemoteThemes/android/app/.cxx/Debug/6f3f2b4w/arm64-v8a/CMakeFiles/cmake.verify_globs	5f42a2fe5b66a0f6
+1	24	0	/Users/racit/dev/react-native/RemoteThemes/android/app/.cxx/Debug/6f3f2b4w/arm64-v8a/CMakeFiles/cmake.verify_globs	5f42a2fe5b66a0f6
+0	20	0	/Users/racit/dev/react-native/RemoteThemes/android/app/.cxx/Debug/6f3f2b4w/arm64-v8a/CMakeFiles/cmake.verify_globs	5f42a2fe5b66a0f6

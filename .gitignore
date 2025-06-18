@@ -134,3 +134,38 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# React Native
+# Buck build system
+buck-out/
+\.buckd/
+\.watchmanconfig
+
+# Android
+android/app/build/
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.cxx/
+android/.DS_Store
+
+# iOS
+ios/build/
+ios/Pods/
+ios/Podfile.lock
+ios/.DS_Store
+ios/DerivedData/
+ios/*.xcworkspace
+ios/*.xcuserstate
+ios/*.xcuserdata
+ios/.idea/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+
+# Misc
+*.swp
+*.swo
+*.iml

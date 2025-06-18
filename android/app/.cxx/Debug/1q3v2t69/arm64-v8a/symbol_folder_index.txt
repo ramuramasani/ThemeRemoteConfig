@@ -1,0 +1,1 @@
+/Users/racit/dev/react-native/ThemeRemoteConfig/android/app/build/intermediates/cxx/Debug/1q3v2t69/obj/arm64-v8a

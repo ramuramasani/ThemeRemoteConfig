@@ -1,0 +1,12 @@
+# ninja log v5
+0	8	0	/Users/racit/dev/react-native/ThemeRemoteConfig/android/app/.cxx/Debug/1q3v2t69/armeabi-v7a/CMakeFiles/cmake.verify_globs	a59d55be8bfedf16
+2	1295	1750248101653064914	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o	b570ac2927d44866
+1	1365	1750248101720606958	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o	6acb7cc3fca41d21
+1	1555	1750248101911764208	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o	6190649ba6e548a9
+2	1648	1750248102003423152	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o	ade6c1eebbaadd39
+1	1776	1750248102132708806	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o	7e23a937d43c842b
+0	1779	1750248102135675536	CMakeFiles/appmodules.dir/Users/racit/dev/react-native/ThemeRemoteConfig/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	102aeb1111374848
+0	1794	1750248102150864923	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o	69cdff196afed3e9
+2	1799	1750248102155884938	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o	9f01cdabc48941d4
+0	1844	1750248102199963857	CMakeFiles/appmodules.dir/OnLoad.cpp.o	721605ddf3301637
+1844	1893	1750248102250372559	/Users/racit/dev/react-native/ThemeRemoteConfig/android/app/build/intermediates/cxx/Debug/1q3v2t69/obj/armeabi-v7a/libappmodules.so	418a7a49326bc939
